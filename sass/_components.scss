@@ -114,5 +114,30 @@
   }
 
   &__user-name {
+    margin-left: 1rem;
   }
+}
+
+/////////////////////
+///Side Navigation
+
+.side-nav {
+  &__item {
+  }
+  &__link {
+  }
+  &__icon {
+    width: 1.7rem;
+    height: 1.7rem;
+  }
+}
+
+/////////////////////
+///Legal Text
+
+.legal {
+  font-size: 1.2rem;
+  color: var(--color-grey-light-4);
+  text-align: center;
+  padding: 2.5rem;
 }
